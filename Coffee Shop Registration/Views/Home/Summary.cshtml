@@ -1,0 +1,24 @@
+﻿@model NewUser
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@*<h1>Cat Name: @Model.CatName</h1>
+<p>Cat Age: @Model.CatAge</p>
+
+@{
+    if (Model.Fixed)
+    {
+        <p>This cat is fixed!</p>
+    }
+    else
+    {
+        <p>This cat is not fixed!</p>
+    }
+}*@
+
+<h1>Welcome @Model.FirstName @Model.LastName!</h1>
+<p>Email: @Model.Email</p>

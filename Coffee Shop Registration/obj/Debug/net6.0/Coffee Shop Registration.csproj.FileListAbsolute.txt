@@ -1,0 +1,31 @@
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/appsettings.Development.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/appsettings.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration.staticwebassets.runtime.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration.deps.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration.runtimeconfig.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration.dll
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/bin/Debug/net6.0/Coffee Shop Registration.pdb
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.AssemblyInfo.cs
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.MvcApplicationPartsAssemblyInfo.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.RazorAssemblyInfo.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.RazorAssemblyInfo.cs
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets/msbuild.Coffee Shop Registration.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets/msbuild.build.Coffee Shop Registration.props
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Coffee Shop Registration.props
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Coffee Shop Registration.props
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets.build.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/staticwebassets.development.json
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/scopedcss/bundle/Coffee Shop Registration.styles.css
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/scopedcss/projectbundle/Coffee Shop Registration.bundle.scp.css
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.dll
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/refint/Coffee Shop Registration.dll
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.pdb
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/Coffee Shop Registration.genruntimeconfig.cache
+/Users/zachbuth/Projects/Coffee Shop Registration/Coffee Shop Registration/obj/Debug/net6.0/ref/Coffee Shop Registration.dll
